@@ -1,0 +1,1 @@
+const Icapplogo = 'assets/icon/applogo.png';
